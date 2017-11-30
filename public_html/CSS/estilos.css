@@ -8,19 +8,22 @@ and open the template in the editor.
     Author     : 00140307
 */
 
-#cabezera
+#menu
 ul li{
     list-style-type: none;
     display: inline;
-    font-size: 40px;
+    font-size: 50px;
     /*background: #DF7401;*/
-    padding: 10px;
+    padding: 60px;
     border-radius: 8px;
-    align: center;
+    
+}
+#menu{
+    text-align: center;
 }
 
-
-#logo{
-    align: center;
+#cabezera{
+    text-align: left;
     
+   
 }
