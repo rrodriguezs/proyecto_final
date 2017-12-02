@@ -18,6 +18,19 @@ ul li{
     border-radius: 8px;
     
 }
+
+
+a:hover{
+    font-size: 60px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
 #menu{
     text-align: center;
 }
@@ -25,5 +38,9 @@ ul li{
 #cabezera{
     text-align: left;
     
-   
+  
+}
+
+#pie{
+    text-align: center;
 }
